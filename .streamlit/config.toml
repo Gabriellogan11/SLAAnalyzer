@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#E60012"  # Rojo 3M
+backgroundColor = "#FFFFFF"  # Blanco
+secondaryBackgroundColor = "#F5F5F5"  # Gris claro
+textColor = "#2B2B2B"  # Gris oscuro
+font = "Inter"  # Fuente de Google
